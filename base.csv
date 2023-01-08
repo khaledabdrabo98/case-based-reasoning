@@ -1,0 +1,21 @@
+﻿appartement ;prix;surface m²;prix/m²;# pièces;ascenseur;arrondissement ;DPE;meublage;propreté
+1;590;97;5,88;5;1;Villeurbanne;4;bien_meuble;bon
+2;777;37;21;1;0;Villeurbanne;4;peu_meuble;moyen
+3;740;33;22,42;1;0;Villeurbanne;3;bien_meuble;bon
+4;550;10;55;1;0;Villeurbanne;5;bien_meuble;moyen
+5;1229;84;14,63;4;1;Villeurbanne;4;non_meuble;très_bon
+6;635;36;17,64;2;0;Villeurbanne;3;non_meuble;bon
+7;495;20;24,75;1;0;Villeurbanne;4;peu_meuble;moyen
+8;625;39;16,03;2;0;Villeurbanne;4;non_meuble;mauvais
+9;400;18;22,22;1;1;Villeurbanne;5;non_meuble;bon
+10;780;38;20,53;2;0;Villeurbanne;2;non_meuble;moyen
+11;568;36;15,78;1;0;Villeurbanne;4;non_meuble;moyen
+12;650;24;27,08;1;1;Villeurbanne;4;peu_meuble;bon
+13;960;67;14,33;3;1;Villeurbanne;3;peu_meuble;moyen
+14;1014;61;16,62;3;1;Villeurbanne;4;peu_meuble;bon
+15;914;64;14,28;3;1;Villeurbanne;4;non_meuble;bon
+16;560;25;22,4;1;0;Villeurbanne;3;peu_meuble;très_bon
+17;545;18;30,28;1;0;Villeurbanne;4;bien_meuble;bon
+18;807;44;18,34;2;1;Villeurbanne;4;non_meuble;mauvais
+19;990;55;18;3;1;Villeurbanne;3;bien_meuble;très_bon
+20;532;25;21,28;1;0;Villeurbanne;6;non_meuble;mauvais

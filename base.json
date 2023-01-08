@@ -1,0 +1,524 @@
+[
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 97
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 5
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "bien_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "bon"
+			}
+		],
+		"solution": 590
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 37
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 0
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "peu_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "moyen"
+			}
+		],
+		"solution": 777
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 33
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 0
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 3
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "bien_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "bon"
+			}
+		],
+		"solution": 740
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 10
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 0
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 5
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "bien_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "moyen"
+			}
+		],
+		"solution": 550
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 84
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "non_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "tr\u00e8s_bon"
+			}
+		],
+		"solution": 1229
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 36
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 2
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 0
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 3
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "non_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "bon"
+			}
+		],
+		"solution": 635
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 20
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 0
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "peu_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "moyen"
+			}
+		],
+		"solution": 495
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 39
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 2
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 0
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "non_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "mauvais"
+			}
+		],
+		"solution": 625
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 18
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 5
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "non_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "bon"
+			}
+		],
+		"solution": 400
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 38
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 2
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 0
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 2
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "non_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "moyen"
+			}
+		],
+		"solution": 780
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 36
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 0
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "non_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "moyen"
+			}
+		],
+		"solution": 568
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 25
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "peu_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "bon"
+			}
+		],
+		"solution": 650
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 67
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 3
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 3
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "peu_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "moyen"
+			}
+		],
+		"solution": 960
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 61
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 3
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "peu_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "bon"
+			}
+		],
+		"solution": 1014
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 64
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 3
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "non_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "bon"
+			}
+		],
+		"solution": 914
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 25
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 0
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 3
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "peu_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "tr\u00e8s_bon"
+			}
+		],
+		"solution": 560
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 18
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 0
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "bien_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "bon"
+			}
+		],
+		"solution": 545
+	},
+	{
+		"descripteurs": [
+			{
+				"nom_desc": "surface",
+				"valeur": 44
+			},
+			{
+				"nom_desc": "pieces",
+				"valeur": 2
+			},
+			{
+				"nom_desc": "ascenseur",
+				"valeur": 1
+			},
+			{
+				"nom_desc": "DPE",
+				"valeur": 4
+			},
+			{
+				"nom_desc": "meublage",
+				"valeur": "non_meuble"
+			},
+			{
+				"nom_desc": "proprete",
+				"valeur": "mauvais"
+			}
+		],
+		"solution": 807
+	}
+]
