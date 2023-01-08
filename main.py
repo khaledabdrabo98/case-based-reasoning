@@ -192,7 +192,7 @@ def main():
         },
         {
             "nom_desc": "meublage",
-            "valeur": "peu_meuble",
+            "valeur": "non_meuble",
             "poids": 1
         },
         {

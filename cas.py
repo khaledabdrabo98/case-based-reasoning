@@ -23,6 +23,6 @@ class Cas:
         resultat = "Descripteurs :\n"
         for d in self.descripteurs:
             resultat += f"\t{d['nom_desc']}: {d['valeur']}\n"
-        resultat += f"Prix : {'Inconnu' if self.solution == None or 0 else self.solution}\n"
+        resultat += f"Prix : {'A estimer' if self.solution == None or 0 else self.solution}\n"
         return resultat
 
